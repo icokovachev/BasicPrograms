@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello, World!", "..\Hello, 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "..\SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{A981E942-3958-4931-BBB3-F50CEA522666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevidingTwoNumbers", "..\DevidingTwoNumbers\DevidingTwoNumbers.csproj", "{3D8755F5-4FDF-4EDF-B817-264AFE8725B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A981E942-3958-4931-BBB3-F50CEA522666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A981E942-3958-4931-BBB3-F50CEA522666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A981E942-3958-4931-BBB3-F50CEA522666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8755F5-4FDF-4EDF-B817-264AFE8725B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8755F5-4FDF-4EDF-B817-264AFE8725B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8755F5-4FDF-4EDF-B817-264AFE8725B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8755F5-4FDF-4EDF-B817-264AFE8725B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
