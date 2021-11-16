@@ -36,7 +36,7 @@ namespace PerfectNumbers
                 numbers.Clear();
 
             }
-
+            //hgcyjcmgckgchcgmhg
             for (int i = 0; i < perfectNumbers.Count; i++)
             {
                 Console.WriteLine(perfectNumbers[i]);
